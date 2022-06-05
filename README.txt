@@ -1,7 +1,7 @@
 Color Detection
 
-1- Place the Color detection.exe , CSV file and a Photo together in a folder.
-2- Open the Color detection.exe file in Command Promt.
+1- Place the Color detection.py , CSV file and a Photo together in a folder.
+2- Open the Color detection.py file in Command Promt.
 3- Select the Directory of your Folder.
 4- Run the Exe file by using the following command:-
    python Color_detection.py -i "image file name"."file format"
